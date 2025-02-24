@@ -10,6 +10,7 @@
   "author": "Gabriel",
   "license": "ISC",
   "dependencies": {
-    "socket.io": "^4.8.1"
+    "socket.io": "^4.8.1",
+    "stompjs": "^2.3.3"
   }
 }
